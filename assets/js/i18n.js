@@ -417,7 +417,13 @@ const I18N = {
     "con.form.placeholder.name":    "Your name",
     "con.form.placeholder.email":   "you@company.com",
     "con.form.placeholder.subject": "Briefly, what's this about?",
-    "con.form.placeholder.message": "A short note about what you're working on and where I can help."
+    "con.form.placeholder.message": "A short note about what you're working on and where I can help.",
+
+    /* ============ THANK YOU ============ */
+    "thankyou.eyebrow":      "Message Received",
+    "thankyou.h1":           "Thank You!",
+    "thankyou.sub":          "Your message has been received. I will review it and be in touch shortly.",
+    "thankyou.btn":          "Back to Home"
   },
 
   /* ============================================================
@@ -833,7 +839,13 @@ const I18N = {
     "con.form.placeholder.name":    "اسمك",
     "con.form.placeholder.email":   "you@company.com",
     "con.form.placeholder.subject": "باختصار، عن ماذا؟",
-    "con.form.placeholder.message": "ملاحظة قصيرة عن ما تعمل عليه وأين يمكنني المساعدة."
+    "con.form.placeholder.message": "ملاحظة قصيرة عن ما تعمل عليه وأين يمكنني المساعدة.",
+
+    /* ============ THANK YOU ============ */
+    "thankyou.eyebrow":      "تم استلام رسالتك",
+    "thankyou.h1":           "شكراً جزيلا لك!",
+    "thankyou.sub":          "تم استلام رسالتك وسأراجعها وأتواصل معك قريباً.",
+    "thankyou.btn":          "العودة للرئيسية"
   }
 };
 
